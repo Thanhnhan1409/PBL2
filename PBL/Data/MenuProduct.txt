@@ -1,0 +1,17 @@
+------------------------------------------------
+                PRODUCTMANAGER
+------------------------------------------------
+
+             1.  Show Popcorn's List.      
+             2.  Show Soda's List.  
+             3.  Add Popcorn.               
+             4.  Add Soda.               
+             5.  Remove Popcorn.
+             6.  Remove Soda.
+             7.  Search Popcorn.
+             8.  Search Soda.
+             9.  Update Popcorn.
+             10. Update Soda.
+             11. Back to Menu.
+
+------------------------------------------------

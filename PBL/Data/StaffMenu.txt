@@ -1,0 +1,12 @@
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
+                     STAFF'S MENU           
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
+          _________________________________ 
+         |                                 |
+         |  1. See movie information.      |
+         |  2. Sell tickets, popcorn, soda.|
+         |  3. Movie manage.               |
+         |  4. Product manage.             |
+         |  5. Check IdTicket              |
+         |  6. Exit.                       |
+         |_________________________________|

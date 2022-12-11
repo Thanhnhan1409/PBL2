@@ -1,0 +1,15 @@
+                
+                ------------------------------------------------
+                 		 STAFF'S MENU
+                ------------------------------------------------
+                ------------------------------------------------
+
+       			    1. See movie's information.      
+       			    2. Sell tickets, popcorn, soda.
+     			    3. Movie manage.               
+    			    4. Product manage.             
+  			    5. Check IdTicket.
+			    6. Show the theater showtimes             
+         		    7. Exit. 
+                      
+                ------------------------------------------------

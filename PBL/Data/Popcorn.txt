@@ -1,0 +1,24 @@
+Popcorn1
+Cheese Popcorn
+70
+0
+Popcorn3
+Caramel Popcorn
+74
+0
+Popcorn4
+Normal Popcorn
+74
+0
+Popcorn4
+Milo Popcorn
+65
+0
+Popcorn5
+Matcha Popcorn
+70
+2
+Popcorn6
+Cheese Popcorn
+60
+4

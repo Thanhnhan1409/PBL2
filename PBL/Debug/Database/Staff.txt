@@ -1,0 +1,16 @@
+id
+Nguyen Van A
+1
+0
+Staff_id2
+Tran Van B
+MatKhauStaff2
+0
+Staff_id3
+Nguyen Thi C
+MatKhauStaff3
+0
+Staff_id4
+Phan Thanh D
+MatKhauStaff4
+0

@@ -1,0 +1,20 @@
+Popcorn1
+Mango Popcorn
+40000
+10
+Popcorn2
+Salt Popcorn
+59000
+15
+Popcorn3
+Caramel Popcorn
+74000
+100
+Popcorn4
+Cheese Popcorn
+74000
+108
+Popcorn5
+BananaPopcorn
+76000
+9
